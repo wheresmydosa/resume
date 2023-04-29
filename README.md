@@ -1,4 +1,4 @@
-# resume
-Anjali Manoj's Resume (2023)
+# Anjali Manoj
+
 
 Hello World!
